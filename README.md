@@ -30,6 +30,11 @@
 </p>
 
 
+<img src="https://github-readme-stats.vercel.app/api?username=Milind-dev&amp;&amp;show_icons=true&amp;title_color=ffffff&amp;icon_color=bb2acf&amp;text_color=daf7dc&amp;bg_color=151515">
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milind-dev&amp;text_color=00FF66&amp;theme=dark&amp;hide_langs_below=1%22%20style=%22max-width:%20100%;">
+
 --- 
 
 ### Connect with me:
