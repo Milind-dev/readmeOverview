@@ -23,11 +23,12 @@
 --- 
 
 ### Github Stats:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milind-dev&langs_count=4&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&layout=compact" alt="Milind dev :: Top Langs" /></p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Milind-dev&show_icons=true"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milind-dev&exclude_repo=Instagram-Follower-Analysis&langs_count=10&layout=compact"/>
-</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Milind-dev&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Milind dev :: Profile Stats" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Milind-dev&&show_icons=true&title_color=fff&icon_color=79ff97&text_color=ffffff&bg_color=black"><p/>
+
 
 
 
