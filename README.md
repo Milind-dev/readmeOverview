@@ -1,11 +1,16 @@
 ### Hi there, I'm Milind-dev👋
 
-- 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning MongoDb
+- 🌱 I am currently learning more about web development by creating and developing responsive websites.<br>
+- 👯 I am open to work in Full Stack Web Development.
 - 🥅 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love to football.
 
 --- 
+
+## 📖 About Me
+### I am an Aspiring Full Stack Web Developer currently pursuing  web development course in MERN Stack.Along with passion in web development,I love to creatively solve Data Structures and Algorithm problems. 
+
+----
 
 ### Languages and Tools:
 
