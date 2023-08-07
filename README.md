@@ -52,3 +52,7 @@
 [website]: https://github.com/Milind-dev/
 [twitter]: https://twitter.com/Milind
 [linkedin]: https://www.linkedin.com/in/alok-kothiyal-025191119/
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Milind-dev&repo=github-readme-stats)](https://github.com/Milind-dev/github-readme-stats)
+
